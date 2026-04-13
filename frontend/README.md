@@ -31,20 +31,20 @@ ________________________________________________________________________________
 
 ## Before UI
 
-![Before 1](frontend/snapshots/before-ui/before_1.png)
-![Before 2](frontend/snapshots/before-ui/before_2.png)
-![Before 3](frontend/snapshots/before-ui/before_3.png)
-![Before 4](frontend/snapshots/before-ui/before_4.png)
-![Before 5](frontend/snapshots/before-ui/before_5.png)
+![Before 1](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/before-ui/before_1.png)
+![Before 2](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/before-ui/before_2.png)
+![Before 3](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/before-ui/before_3.png)
+![Before 4](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/before-ui/before_4.png)
+![Before 5](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/before-ui/before_5.png)
 
 ## After UI
 
-![After 1](frontend/snapshots/after-ui/after_1.png)
-![After 2](frontend/snapshots/after-ui/after_2.png)
-![After 3](frontend/snapshots/after-ui/after_3.png)
-![After 4](frontend/snapshots/after-ui/after_4.png)
-![After 5](frontend/snapshots/after-ui/after_5.png)
-![After 6](frontend/snapshots/after-ui/after_6.png)
-![After 7](frontend/snapshots/after-ui/after_7.png)
-![After 8](frontend/snapshots/after-ui/after_8.png)
-![After 9](frontend/snapshots/after-ui/after_9.png)
+![After 1](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_1.png)
+![After 2](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_2.png)
+![After 3](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_3.png)
+![After 4](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_4.png)
+![After 5](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_5.png)
+![After 6](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_6.png)
+![After 7](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_7.png)
+![After 8](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_8.png)
+![After 9](https://raw.githubusercontent.com/avirekhi/workshop_booking_ui/main/frontend/snapshots/after-ui/after_9.png)
